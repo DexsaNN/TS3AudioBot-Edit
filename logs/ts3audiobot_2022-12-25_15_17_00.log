@@ -1,0 +1,22 @@
+2022-12-25 15:17:00.7259| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader 
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader 
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader 
+2022-12-25 15:17:00.7707| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 15:17:00.7868| INFO|Core|Setup.LogHeader 
+2022-12-25 15:17:00.7868| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 15:17:01.3616| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 15:17:01.7432| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 15:17:02.9508| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 15:17:48.5799| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v 4
+2022-12-25 15:17:48.6725| WARN|0|RightsManager.ReadFile Right "cmd.random" is not registered.
+2022-12-25 15:17:48.6725| WARN|0|RightsManager.ReadFile Right "cmd.rng" is not registered.
+2022-12-25 15:17:48.6725| WARN|0|RightsManager.ReadFile Right "cmd.nastepna" is not registered.
+2022-12-25 15:17:48.6725| WARN|0|RightsManager.ReadFile Right "cmd.history.dodaj" is not registered.
+2022-12-25 15:17:53.3333| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v
+2022-12-25 15:17:57.8209| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !volume
+2022-12-25 15:18:15.1052| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v 5
+2022-12-25 15:18:16.0027| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v
+2022-12-25 15:20:49.7148| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v

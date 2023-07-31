@@ -1,0 +1,19 @@
+2022-12-24 21:16:58.4962| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 21:16:58.6245| INFO|Core|Setup.LogHeader 
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader 
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader 
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader 
+2022-12-24 21:16:58.6378| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 21:17:00.4004| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 21:17:03.0912| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 21:17:12.8637| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:15.9746| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:16.0698| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:16.1643| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:16.2682| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:16.3634| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:18.4221| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish
+2022-12-24 21:17:18.4389| WARN|0|PacketHandler`2.ResendLoop Previous resend tick didn't finish

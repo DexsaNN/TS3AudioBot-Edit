@@ -1,0 +1,16 @@
+2022-12-25 14:10:33.1513| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:10:33.1990| INFO|Core|Setup.LogHeader 
+2022-12-25 14:10:33.1990| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader 
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader 
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader 
+2022-12-25 14:10:33.2091| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:10:33.8067| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 14:10:34.2651| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (kolejna).
+2022-12-25 14:10:34.2870| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (poprzednia).
+2022-12-25 14:10:34.2870| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (dodaj).
+2022-12-25 14:10:34.2870| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 14:10:35.3836| WARN|0|Ts3Client.TsFullClient_OnDisconnected Another client with the same identity is already connected.
+2022-12-25 14:10:35.4347| INFO|0|Ts3Client.TryReconnect Trying to reconnect because of Error. Delaying reconnect for 30 seconds

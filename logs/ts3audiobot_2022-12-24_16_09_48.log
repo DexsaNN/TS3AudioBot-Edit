@@ -1,0 +1,43 @@
+2022-12-24 16:09:48.1831| INFO|Core|Setup.LogHeader [============ TS3AudioBot started =============]
+2022-12-24 16:09:48.2374| INFO|Core|Setup.LogHeader [ Date: Saturday, 24 December 2022 16:09:48
+2022-12-24 16:09:48.2783| INFO|Core|Setup.LogHeader [ Version: <?>/<?>/<?>
+2022-12-24 16:09:48.2783| INFO|Core|Setup.LogHeader [ Build: <?>
+2022-12-24 16:09:48.2783| INFO|Core|Setup.LogHeader [ Platform: Windows 6.2.9200.0 (64bit)
+2022-12-24 16:09:48.2894| INFO|Core|Setup.LogHeader [ Runtime: .NET Core (3.1.32) ServerGC:True GC:SustainedLowLatency
+2022-12-24 16:09:48.2894| INFO|Core|Setup.LogHeader [ Opus: libopus 1.2.1-fixed (x64)
+2022-12-24 16:09:48.2894| INFO|Core|Setup.LogHeader [==============================================]
+2022-12-24 16:09:49.8281| WARN|Core|RightsManager.CreateConfigIfNotExists No permission file found.
+2022-12-24 16:10:05.5883| INFO|Core|RightsManager.CreateConfig Creating new permission file ({"AdminUids":["MTx2YJYbZ2I78oWRlsWCdeEkWlE="], "OverwriteIfExists":false})
+2022-12-24 16:10:06.6064| INFO|Core|WebServer.StartWebServerInternal Starting Webserver on port 58913
+2022-12-24 16:10:16.1251| INFO|Core|Bot.Run Bot "default" connecting to "WizardRPG.pl"
+2022-12-24 16:10:17.1926| INFO|Core|Ts3Client.ConnectClient Client connected.
+2022-12-24 16:10:28.0720| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 16:10:28.2174| WARN|0|RightsManager.ReadFile Right "cmd.repeat" is not registered.
+2022-12-24 16:10:28.2174| WARN|0|RightsManager.ReadFile Right "cmd.seek" is not registered.
+2022-12-24 16:10:29.9682| WARN|0|Util.UnwrapToLog permissions_client_insufficient: the command failed to execute: insufficient client permissions (missing permission:b_client_modify_own_description)
+2022-12-24 16:10:29.9759| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: permission_invalid_size: the command failed to execute: invalid size
+2022-12-24 16:10:40.1722| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 16:10:40.7547| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 16:10:41.5256| WARN|0|Util.UnwrapToLog permissions_client_insufficient: the command failed to execute: insufficient client permissions (missing permission:b_client_modify_own_description)
+2022-12-24 16:10:41.5256| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: permission_invalid_size: the command failed to execute: invalid size
+2022-12-24 16:10:41.8282| WARN|0|Util.UnwrapToLog permissions_client_insufficient: the command failed to execute: insufficient client permissions (missing permission:b_client_modify_own_description)
+2022-12-24 16:10:41.8282| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: permission_invalid_size: the command failed to execute: invalid size
+2022-12-24 16:10:55.9179| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 16:11:06.4213| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !bot commander on
+2022-12-24 16:11:08.6663| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !bot name ELo
+2022-12-24 16:11:18.4910| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-24 16:11:18.5396| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-24 16:14:54.1399| INFO||Core.ConsoleInterruptHandler Got interrupt signal, trying to soft-exit.
+2022-12-24 16:14:54.1475| INFO||Core.StopAsync TS3AudioBot shutting down.
+2022-12-24 16:14:54.2183| INFO||Bot.Stop Bot (0) disconnecting.
+2022-12-24 16:14:54.4631| INFO||WebServer.Dispose WebServer is closing
+2022-12-24 16:14:54.4631| INFO|Core|WebServer.OnShutdown WebServer has closed
+2022-12-24 16:14:54.4631| INFO||Core.StopAsync Bye

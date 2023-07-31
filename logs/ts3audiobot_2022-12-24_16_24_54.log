@@ -1,0 +1,18 @@
+2022-12-24 16:24:54.6447| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:24:54.6921| INFO|Core|Setup.LogHeader 
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader 
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader 
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader 
+2022-12-24 16:24:54.6956| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:24:55.5044| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 16:24:56.3079| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 16:24:57.9518| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 16:27:27.6526| INFO||Core.ConsoleInterruptHandler Got interrupt signal, trying to soft-exit.
+2022-12-24 16:27:27.6526| INFO||Core.StopAsync TS3AudioBot shutting down.
+2022-12-24 16:27:27.6661| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-24 16:27:29.2974| INFO||WebServer.Dispose WebServer is closing
+2022-12-24 16:27:29.3031| INFO|Core|WebServer.OnShutdown WebServer has closed
+2022-12-24 16:27:29.3031| INFO||Core.StopAsync Bye

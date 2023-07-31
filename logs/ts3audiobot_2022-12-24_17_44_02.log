@@ -1,0 +1,33 @@
+2022-12-24 17:44:02.3702| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:44:02.4100| INFO|Core|Setup.LogHeader 
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader 
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader 
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader 
+2022-12-24 17:44:02.4122| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:44:03.0098| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:44:03.2595| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:44:04.2383| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:44:20.1278| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !yt
+2022-12-24 17:44:23.5650| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !ytsp elo
+2022-12-24 17:45:37.9462| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=3a3Fd_2bUvY[/URL]
+2022-12-24 17:46:08.0960| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=c56kBe09w_k[/URL]
+2022-12-24 17:57:20.1659| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=c56kBe09w_k[/URL]
+2022-12-24 17:57:21.5564| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=c56kBe09w_k[/URL]
+2022-12-24 17:57:38.7905| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=0CSdGgFZl9g[/URL]
+2022-12-24 18:18:05.4032| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://www.rmfon.pl/n/rmffm.pls[/URL]
+2022-12-24 18:18:09.1860|ERROR|0|FfmpegProducer.StartFfmpegProcessInternal Ffmpeg could not be found (Nie można odnaleźć określonego pliku.)
+System.ComponentModel.Win32Exception (2): Nie można odnaleźć określonego pliku.
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at TS3AudioBot.Audio.FfmpegProducer.StartFfmpegProcessInternal(FfmpegInstance instance, String arguments) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Audio\FfmpegProducer.cs:line 282
+2022-12-24 18:18:19.4968| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://www.rmfon.pl/n/rmffm.pls[/URL]
+2022-12-24 18:18:19.9903|ERROR|0|FfmpegProducer.StartFfmpegProcessInternal Ffmpeg could not be found (Nie można odnaleźć określonego pliku.)
+System.ComponentModel.Win32Exception (2): Nie można odnaleźć określonego pliku.
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at TS3AudioBot.Audio.FfmpegProducer.StartFfmpegProcessInternal(FfmpegInstance instance, String arguments) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Audio\FfmpegProducer.cs:line 282
+2022-12-24 18:18:20.4632| WARN|0|Util.UnwrapToLog file_invalid_path: the command failed to execute: invalid file path
+2022-12-24 18:49:18.8271| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !pomoc

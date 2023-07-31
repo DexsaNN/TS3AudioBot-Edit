@@ -1,0 +1,35 @@
+2022-12-24 16:49:38.3783| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:49:38.4236| INFO|Core|Setup.LogHeader 
+2022-12-24 16:49:38.4236| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 16:49:38.4236| INFO|Core|Setup.LogHeader 
+2022-12-24 16:49:38.4274| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 16:49:38.4274| INFO|Core|Setup.LogHeader 
+2022-12-24 16:49:38.4274| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 16:49:38.5597| INFO|Core|Setup.LogHeader 
+2022-12-24 16:49:38.5597| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:49:39.1332| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 16:49:39.8730| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 16:49:40.8932| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 16:49:46.9642| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !yts elo
+2022-12-24 16:49:47.0610|ERROR|0|RightsManager.ReadFile <bot> Field has invalid data.
+2022-12-24 16:49:56.8857| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !yts elo
+2022-12-24 16:49:56.8997|ERROR|0|RightsManager.ReadFile <bot> Field has invalid data.
+2022-12-24 16:50:11.8544| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !rights relaod
+2022-12-24 16:50:18.2685| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !yts
+2022-12-24 16:50:23.9350| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !yts skurwysyny
+2022-12-24 16:50:30.8216| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !no
+2022-12-24 16:52:14.7343| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !song
+2022-12-24 16:54:21.5580| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !system info
+2022-12-24 16:54:57.0449| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !rng
+2022-12-24 16:55:48.6427| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !alias add
+2022-12-24 16:55:51.9090| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !alias add ytsp
+2022-12-24 16:55:54.3900| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !alias add ytsp tsda
+2022-12-24 16:56:52.6245| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !rights reload
+2022-12-24 16:56:53.6752| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stacje
+2022-12-24 16:56:54.5268| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stacje
+2022-12-24 16:56:56.4524| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 16:56:56.4524| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 16:56:56.4617| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-24 16:56:56.6049| INFO||WebServer.Dispose WebServer jest w trakcie wyłączania
+2022-12-24 16:56:56.6049| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-24 16:56:56.6145| INFO||Core.StopAsync Do zobaczenia!

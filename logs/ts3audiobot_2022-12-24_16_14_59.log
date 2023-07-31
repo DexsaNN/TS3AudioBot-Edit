@@ -1,0 +1,53 @@
+2022-12-24 16:14:59.4555| INFO|Core|Setup.LogHeader [============ TS3AudioBot started =============]
+2022-12-24 16:14:59.4971| INFO|Core|Setup.LogHeader [ Date: Saturday, 24 December 2022 16:14:59
+2022-12-24 16:14:59.5154| INFO|Core|Setup.LogHeader [ Version: <?>/<?>/<?>
+2022-12-24 16:14:59.5154| INFO|Core|Setup.LogHeader [ Build: <?>
+2022-12-24 16:14:59.5230| INFO|Core|Setup.LogHeader [ Platform: Windows 6.2.9200.0 (64bit)
+2022-12-24 16:14:59.5230| INFO|Core|Setup.LogHeader [ Runtime: .NET Core (3.1.32) ServerGC:True GC:SustainedLowLatency
+2022-12-24 16:14:59.5230| INFO|Core|Setup.LogHeader [ Opus: libopus 1.2.1-fixed (x64)
+2022-12-24 16:14:59.5230| INFO|Core|Setup.LogHeader [==============================================]
+2022-12-24 16:15:00.1170| INFO|Core|WebServer.StartWebServerInternal Starting Webserver on port 58913
+2022-12-24 16:15:00.4008| INFO|Core|Bot.Run Bot "default" connecting to "WizardRPG.pl"
+2022-12-24 16:15:02.3579| INFO|Core|Ts3Client.ConnectClient Client connected.
+2022-12-24 16:15:07.6069| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 16:15:28.8663| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-24 16:15:28.8951| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-24 16:17:06.9140| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !play [URL]https://stream.open.fm/68[/URL]
+2022-12-24 16:17:21.7977| WARN|0|FfmpegProducer.StartFfmpegProcessIcy Unable to create icy-stream (Request timed out.)
+TS3AudioBot.AudioBotException: Request timed out.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operacja We/Wy została przerwana z powodu zakończenia wątku lub żądania aplikacji..
+ ---> System.Net.Sockets.SocketException (995): Operacja We/Wy została przerwana z powodu zakończenia wątku lub żądania aplikacji.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at TS3AudioBot.Helper.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 236
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at TS3AudioBot.Helper.WebWrapper.SendDefaultAsync(HttpClient client, HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 185
+   at TS3AudioBot.Helper.WebWrapper.UnsafeResponse(HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 165
+   --- End of inner exception stack trace ---
+   at TS3AudioBot.Helper.WebWrapper.ToLoggedError(Exception ex) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 198
+   at TS3AudioBot.Helper.WebWrapper.UnsafeResponse(HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 171
+   at TS3AudioBot.Audio.FfmpegProducer.StartFfmpegProcessIcy(String url) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Audio\FfmpegProducer.cs:line 227
+2022-12-24 16:20:39.0516| INFO||Core.ConsoleInterruptHandler Got interrupt signal, trying to soft-exit.
+2022-12-24 16:20:39.0516| INFO||Core.StopAsync TS3AudioBot shutting down.
+2022-12-24 16:20:39.0516| INFO||Bot.Stop Bot (0) disconnecting.
+2022-12-24 16:20:39.9025| INFO||Core.ConsoleInterruptHandler Got multiple interrupt signals, trying to force-exit.

@@ -1,0 +1,27 @@
+2022-12-24 21:17:45.9574| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader 
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader 
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader 
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader 
+2022-12-24 21:17:45.9993| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 21:17:46.5473| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 21:17:46.7948| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 21:17:55.9713| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 21:18:06.6903| INFO|0|LocalizationManager.DownloadAvaliableLanguages Checking for requested language online
+2022-12-24 21:18:07.1658| WARN|0|LocalizationManager.DownloadAvaliableLanguages Failed to download language overview list
+TS3AudioBot.AudioBotException: Nieprawidłowe lub źle sformułowane części odpowiedzi. (json-request)
+   at TS3AudioBot.Helper.WebWrapper.AsJson[T](HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 116
+   at TS3AudioBot.Localization.LocalizationManager.DownloadAvaliableLanguages() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 167
+2022-12-24 21:18:07.2249|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-24 21:18:07.2249| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !joiadsp
+2022-12-24 21:18:12.0963| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !pomoc
+2022-12-24 21:18:16.8046| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot comamnder on
+2022-12-24 21:18:21.3106| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !name Nejfaz cipka <3
+2022-12-24 21:18:31.8026| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://www.youtube.com/watch?v=A8UIoMbjYTc[/URL]
+2022-12-24 21:18:47.1348| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 21:18:47.1384| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 21:18:47.1384| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-24 21:18:47.8662| INFO||Core.ConsoleInterruptHandler Dostałem wiele sygnałów przerwań, próbuję wymusić wyjście.

@@ -1,0 +1,42 @@
+2022-12-25 15:19:16.6612| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader 
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader 
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader 
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader 
+2022-12-25 15:19:16.7090| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 15:19:17.2532| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 15:19:17.4255| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-25 15:19:17.4325|ERROR|Core|WebServer.StartWebServerInternal Strona nie może zostać uruchomiona
+System.IO.IOException: Failed to bind to address http://[::]:58913: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.
+ ---> System.Net.Sockets.SocketException (10048): Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransport.BindAsync()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransport.BindAsync()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.AnyIPListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.EndpointsStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token, String shutdownMessage)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token)
+   at TS3AudioBot.Web.WebServer.<>c__DisplayClass8_0.<<StartWebServerInternal>b__7>d.MoveNext() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Web\WebServer.cs:line 172
+2022-12-25 15:19:17.5541| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 15:19:21.0153| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 15:20:49.7228| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !v
+2022-12-25 15:20:49.8180| WARN|0|RightsManager.ReadFile Right "cmd.random" is not registered.
+2022-12-25 15:20:49.8180| WARN|0|RightsManager.ReadFile Right "cmd.rng" is not registered.
+2022-12-25 15:20:49.8180| WARN|0|RightsManager.ReadFile Right "cmd.nastepna" is not registered.
+2022-12-25 15:20:49.8180| WARN|0|RightsManager.ReadFile Right "cmd.history.dodaj" is not registered.

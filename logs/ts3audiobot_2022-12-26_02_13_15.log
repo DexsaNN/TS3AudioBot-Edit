@@ -1,0 +1,16 @@
+2022-12-26 02:13:15.4557| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader 
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader 
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader 
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader 
+2022-12-26 02:13:15.4944| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:13:16.0101| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-26 02:13:16.2577| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-26 02:13:20.7068| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-26 02:13:24.0766| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !BOT INFO
+2022-12-26 02:13:55.9114| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-26 02:13:55.9114| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-26 02:13:56.0482| INFO||Bot.Stop Bot (0) wyłączony.

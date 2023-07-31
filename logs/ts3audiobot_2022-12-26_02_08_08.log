@@ -1,0 +1,13 @@
+2022-12-26 02:08:08.1883| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:08:08.2343| INFO|Core|Setup.LogHeader 
+2022-12-26 02:08:08.2343| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader 
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader 
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader 
+2022-12-26 02:08:08.2392| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:08:08.8850| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-26 02:08:09.1960| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-26 02:08:10.0903| WARN|0|Ts3Client.TsFullClient_OnDisconnected Another client with the same identity is already connected.
+2022-12-26 02:08:10.1482| INFO|0|Ts3Client.TryReconnect Trying to reconnect because of Error. Delaying reconnect for 30 seconds

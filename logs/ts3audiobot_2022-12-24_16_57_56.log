@@ -1,0 +1,25 @@
+2022-12-24 16:57:56.9687| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:57:57.0276| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:57.0371| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 16:57:57.0371| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:57.0371| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 16:57:57.0541| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:57.0541| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 16:57:57.0541| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:57.0541| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:57:58.0304| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 16:57:58.3943| WARN|Core|ConfRoot.GetBotConfig Failed to load bot config "default"
+Nett.Parser.ParseException: Line 7, column 10: Single line string contains newlines.
+   at Nett.Parser.Nodes.Opt`1.SyntaxNodeOrDefault()
+   at Nett.Parser.Nodes.Req`1.SyntaxNode()
+   at Nett.Parser.Builders.TableBuilder.Build(StartNode node, TomlSettings settings)
+   at Nett.StreamTomlSerializer.Deserialize(Stream s, TomlSettings settings)
+   at Nett.Toml.ReadFile(String filePath, TomlSettings settings)
+   at Nett.Toml.ReadFile(String filePath)
+   at TS3AudioBot.Config.ConfigEnumerable.Load[T](String path) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Config\ConfigEnumerable.cs:line 139
+2022-12-24 16:58:08.3670|ERROR|Core|BotManager.RunBots Could not save new bot. Ensure that the bot has access to the directory.
+2022-12-24 16:58:13.9423| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 16:58:14.0804| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 16:58:14.0869| INFO||WebServer.Dispose WebServer jest w trakcie wyłączania
+2022-12-24 16:58:14.0869| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-24 16:58:14.0869| INFO||Core.StopAsync Do zobaczenia!

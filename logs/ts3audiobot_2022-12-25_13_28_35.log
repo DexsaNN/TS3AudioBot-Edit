@@ -1,0 +1,11 @@
+2022-12-25 13:28:35.0631| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 13:28:35.1090| INFO|Core|Setup.LogHeader 
+2022-12-25 13:28:35.1090| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 13:28:35.1090| INFO|Core|Setup.LogHeader 
+2022-12-25 13:28:35.1149| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 13:28:35.1149| INFO|Core|Setup.LogHeader 
+2022-12-25 13:28:35.1149| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 13:28:35.1149| INFO|Core|Setup.LogHeader 
+2022-12-25 13:28:35.1149| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 13:28:36.9826| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 13:28:38.4248| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"

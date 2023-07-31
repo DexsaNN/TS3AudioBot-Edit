@@ -1,0 +1,14 @@
+2023-07-30 21:53:05.1855| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader 
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader 
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader 
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2023-07-30 21:53:05.2464| INFO|Core|Setup.LogHeader 
+2023-07-30 21:53:05.2464| INFO|Core|Setup.Main ────────────[ Bot Muzyczny ]────────────
+2023-07-30 21:53:05.9807| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2023-07-30 21:53:06.4013| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2023-07-30 21:53:37.3479| INFO|0|Ts3Client.TryReconnect Trying to reconnect because of Timeout. Delaying reconnect for 1 seconds
+2023-07-30 21:54:08.3910| INFO|0|Ts3Client.TryReconnect Trying to reconnect because of Timeout. Delaying reconnect for 2 seconds
+2023-07-30 21:54:40.4075| INFO|0|Ts3Client.TryReconnect Trying to reconnect because of Timeout. Delaying reconnect for 5 seconds

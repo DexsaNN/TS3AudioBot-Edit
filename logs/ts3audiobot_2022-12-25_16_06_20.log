@@ -1,0 +1,23 @@
+2022-12-25 16:06:20.4342| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:06:20.4728| INFO|Core|Setup.LogHeader 
+2022-12-25 16:06:20.4753| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 16:06:20.4753| INFO|Core|Setup.LogHeader 
+2022-12-25 16:06:20.4753| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 16:06:20.4753| INFO|Core|Setup.LogHeader 
+2022-12-25 16:06:20.4753| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 16:06:20.5151| INFO|Core|Setup.LogHeader 
+2022-12-25 16:06:20.5151| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:06:21.0321| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 16:06:21.2968| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 16:06:30.5950| WARN|0|PacketHandler`2.FetchPackets Dropping not decryptable packet: D9 FA C2 FE 60 73 33 EC 00 00 02 97 76 8B 54 AD 79 E3 AF 87 EB AA 1A 0B FB CF 0C C9 26 DD 3D 56 F3 E1 D5 CA 07 49 E5 CA 92 4F 11 7D D9 FC 77 3A 01 C1 67 38 01 CC 44 E0 11 FC D1 60 B2 70 C5 5D 59 89 9E 59 D7 75 54 B1 7A 7C 1D 21 CE BF 13 CE 42 AD D1 33 B0 D4 0A A9 B7 76 0D C3 9F 1F 70 54 5D B4 2D 60 E3 9D 35 24 A7 FD 58 ED 6A BB FE C4 21 F7 08 89 55 49 0A 3D A8 8C C6 2D 6C 41 57 33 E7 23 9E D0 F3 5D 9C AD 31 D3 EF B8 40 4B B6 2B 4F BC CD 0C 1B CE 8E 90 E4 BA 83 86 3C 6F 8E B5 C1 4D A8 46 D0 55 8D A6 B6 AB 08 31 D9 2D E0 48 1D 22 8B E2 C6 AA 80 05 7A D4 F1 54 29 A6 6B 08 B9 75 14 EB DD 64 1D 2E 41 67 CC 5D 60 E6 DE 17 BD D2 FE AA 4F 05 39 BB 01 20 E8 C4 5B 04 69 54 59 95 F3 29 AA A9 53 A2 CA DB C8 54 62 8D 6A 32 BF 6E 00 A8 B9 22 B4 46 E8 BA 97 F6 5D 68 FC D1 AF 1F 07 F6 3A FB 4E 93 FA 93 1E 11 91 4A 13 B1 78 A9 BA BE 25 69 C9 13 B3 B5 55 AE 72 8F 9F 85 C5 05 73 98 25 D7 00 D6 58 15 47 1F C6 45 0B 1A A9 D8 0B DC 05 6C 9D FC 18 78 61 0A AF D2 54 E1 CE C0 6A 9C FE 94 E3 F7 83 DE A5 47 B4 E7 83 02 71 3A 2A 27 A9 11 72 EE 92 FC 24 63 08 81 72 65 27 1B 4D 19 A0 2E 64 55 A2 79 2A 9D 8B 8E 45 AA A5 6D A2 22 58 62 09 F6 71 71 87 83 C3 84 26 A7 2E 4D A3 34 38 45 65 1E 39 50 DA 88 43 53 4F 67 C1 E3 E7 CB 8B E1 82 03 52 8F 64 B4 69 1D D9 A1 6E 25 54 F3 E0 F5 71 5F 85 E0 48 64 D9 CF EF 20 A4 2A 26 24 63 31 74 20 D7 E0 01 04 C6 36 75 E0 02 67 53 D8 51 56 F1 8E F4 8C EA 0F 45 F0 FC 46 C4 8D 9F 62 F0 F0 E7 4D 4C E2 85 79 0F 34 E1 A1 C4 B4 CC DD 16 7C EB 
+2022-12-25 16:06:32.5466| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 16:06:42.2046| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://trance.radioparty.pl:8015[/URL]
+2022-12-25 16:06:42.2807| WARN|0|RightsManager.ReadFile Right "cmd.nastepna" is not registered.
+2022-12-25 16:06:43.5248|ERROR|0|FfmpegProducer.StartFfmpegProcessInternal Ffmpeg could not be found (Nie można odnaleźć określonego pliku.)
+System.ComponentModel.Win32Exception (2): Nie można odnaleźć określonego pliku.
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at TS3AudioBot.Audio.FfmpegProducer.StartFfmpegProcessInternal(FfmpegInstance instance, String arguments) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Audio\FfmpegProducer.cs:line 282
+2022-12-25 16:06:43.6711| WARN|0|Util.UnwrapToLog file_invalid_path: the command failed to execute: invalid file path
+2022-12-25 16:07:20.4168| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !rights reload
+2022-12-25 16:07:24.1325| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://trance.radioparty.pl:8015[/URL]

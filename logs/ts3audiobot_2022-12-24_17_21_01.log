@@ -1,0 +1,34 @@
+2022-12-24 17:21:01.1244| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:21:01.1694| INFO|Core|Setup.LogHeader 
+2022-12-24 17:21:01.1694| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:21:01.1694| INFO|Core|Setup.LogHeader 
+2022-12-24 17:21:01.1694| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:21:01.1781| INFO|Core|Setup.LogHeader 
+2022-12-24 17:21:01.1781| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:21:01.1781| INFO|Core|Setup.LogHeader 
+2022-12-24 17:21:01.1781| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:21:01.7744| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:21:02.0400| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:21:14.4039| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:21:19.2383| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stacje
+2022-12-24 17:21:21.6493| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stacjeosdjzcoisf
+2022-12-24 17:21:23.2952| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !asioudhasopd
+2022-12-24 17:21:25.4631| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !asdasd
+2022-12-24 17:21:26.9520| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !sasda
+2022-12-24 17:21:31.9024| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !play malik
+2022-12-24 17:21:39.2787| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !play [URL]https://www.youtube.com/watch?v=3a3Fd_2bUvY[/URL]
+2022-12-24 17:23:23.2343| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !name skurwysyny
+2022-12-24 17:26:13.7996| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 17:26:34.9426| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-24 17:26:34.9703| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-24 17:28:20.6104| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !helpall
+2022-12-24 17:28:21.9758| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !help all
+2022-12-24 17:31:00.9555| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop

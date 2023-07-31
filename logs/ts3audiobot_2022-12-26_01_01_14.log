@@ -1,0 +1,29 @@
+2022-12-26 01:01:14.2636| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader 
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader 
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader 
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader 
+2022-12-26 01:01:14.3039| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 01:01:14.8758| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-26 01:01:15.1303| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-26 01:01:17.2097| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-26 01:01:21.1159| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !autor
+2022-12-26 01:01:28.5473| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play elo
+2022-12-26 01:01:28.5712|FATAL|0|Core.UnhandledExceptionHandler Critical program failure!
+TS3AudioBot.AudioBotException: Youtube-Dl nie może załadować piosenki z powodu ograniczeń nałożonych na ten utwór.
+   at TS3AudioBot.ResourceFactories.YoutubeDlHelper.GetSearchAsync(String text) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\ResourceFactories\YoutubeDlHelper.cs:line 61
+   at TS3AudioBot.ResourceFactories.Youtube.YoutubeResolver.SearchYoutubeDlAsync(String keyword) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\ResourceFactories\Youtube\YoutubeResolver.cs:line 422
+   at TS3AudioBot.ResourceFactories.Youtube.YoutubeResolver.Search(ResolveContext _, String keyword) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\ResourceFactories\Youtube\YoutubeResolver.cs:line 396
+   at TS3AudioBot.ResourceFactories.ResourceResolver.Search(ResolveContext ctx, String resolverName, String query) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\ResourceFactories\ResourceResolver.cs:line 225
+   at TS3AudioBot.MainCommands.CommandPlay(PlayManager playManager, InvokerData invoker, ResolveContext resolver, Ts3Client ts3Client, String url, String[] attributes) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\MainCommands.cs:line 1068
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__139_1(Object state)
+   at System.Threading.QueueUserWorkItemCallback.<>c.<.cctor>b__6_0(QueueUserWorkItemCallback quwi)
+   at System.Threading.ExecutionContext.RunForThreadPoolUnsafe[TState](ExecutionContext executionContext, Action`1 callback, TState& state)
+   at System.Threading.QueueUserWorkItemCallback.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2022-12-26 01:01:28.6011| INFO|0|Core.StopAsync Boty muzyczne wyłączone!
+2022-12-26 01:01:28.6011| INFO|0|Bot.Stop Bot (0) wyłączony.

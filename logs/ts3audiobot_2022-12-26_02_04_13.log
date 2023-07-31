@@ -1,0 +1,30 @@
+2022-12-26 02:04:13.9527| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:04:13.9962| INFO|Core|Setup.LogHeader 
+2022-12-26 02:04:13.9962| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-26 02:04:13.9962| INFO|Core|Setup.LogHeader 
+2022-12-26 02:04:13.9962| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-26 02:04:13.9962| INFO|Core|Setup.LogHeader 
+2022-12-26 02:04:14.0051| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-26 02:04:14.0051| INFO|Core|Setup.LogHeader 
+2022-12-26 02:04:14.0051| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 02:04:15.1856| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-26 02:04:15.6453| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-26 02:04:17.1905| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-26 02:04:20.9955| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !system info
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.pm" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.unsubscribe" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.if" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.take" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.rights.can" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.from" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.id" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.last" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.play" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.till" is not registered.
+2022-12-26 02:04:21.1628| WARN|0|RightsManager.ReadFile Right "cmd.history.title" is not registered.
+2022-12-26 02:06:29.2546| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-26 02:06:29.2593| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-26 02:06:29.2593| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-26 02:06:29.4298| INFO||WebServer.Dispose Strona jest w trakcie wyłączania
+2022-12-26 02:06:29.4298| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-26 02:06:29.4298| INFO||Core.StopAsync Do zobaczenia!

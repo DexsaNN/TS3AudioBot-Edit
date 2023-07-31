@@ -1,0 +1,17 @@
+2022-12-25 22:56:09.2816| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader 
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader 
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader 
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader 
+2022-12-25 22:56:09.3554| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 22:56:10.6539| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 22:56:11.2950| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 22:56:15.1425| WARN|0|PacketHandler`2.FetchPackets Dropping not decryptable packet: 51 9C 43 F7 D5 11 17 C5 00 00 02 97 76 8B 54 AD 79 E3 AF 87 EB AA 1A 0B FB CF 0C C9 26 DD 3D 56 F3 E1 D5 CA 07 49 E5 CA 92 4F 11 7D D9 FC 77 3A 01 C1 67 38 01 CC 44 E0 11 FC D1 60 B2 70 C5 5D 59 89 9E 59 D7 75 54 B1 7A 7C 1D 21 CE BF 13 CE 42 AD D1 33 B0 D4 0A A9 B7 76 0D C3 9F 1F 70 54 5D B4 2D 60 E3 9D 35 24 A7 FD 5E E7 47 8A CA C8 15 A1 0A 8A 43 71 09 06 AE 8D C7 17 0E 01 1E 26 84 0E 8C EE D4 05 A1 B9 66 D0 C6 E9 4E 0F A7 13 42 BB CE 11 2E F4 82 80 DD 82 8E 85 0C 44 A9 F6 F8 6F C3 0C CD 0A C8 B0 B2 E2 2A 44 E1 67 C4 69 02 5B D9 E4 F3 8B AF 29 4C F9 B2 11 50 98 4B 64 CC 06 49 CB C9 5A 3D 4B 52 23 DF 59 41 C9 98 26 AC 9B D8 A1 2B 09 11 97 5D 7E E1 FD 09 3B 49 52 05 E2 F5 1A 9F AC 72 89 D4 E5 C8 7A 37 EE 21 0C AB 34 72 DB BB 6F BE 4C EC E0 BB 8E 67 69 CA F2 8D 39 25 D0 3E FB 4A 9D F9 96 04 17 9A 4C 28 B3 4A B3 A3 88 3E 5C E5 0E 83 B6 4D E8 61 CA B8 85 E2 5F 69 E6 2A AD 09 88 4A 34 74 05 E6 6D 16 2C B7 E4 30 D6 3E 5C A4 F4 39 77 4A 76 9A A1 55 CF FA F3 27 94 84 B5 80 BA E7 8A C6 7C E3 DC 8D 5C 4F 38 1B 78 FD 26 16 FD AB 9C 28 7F 1D C5 35 63 5F 22 4B 0F CE 1B 30 07 E7 64 6B CF 94 93 4C F8 8E 15 BE 24 40 63 76 8A 45 51 84 9F F1 F9 7A BB 36 49 A4 30 17 58 66 1F 3C 55 E4 FD 50 44 04 1C F3 EA 98 EC 93 86 C3 47 68 83 1D FA 55 68 86 A4 29 52 7C D8 F4 A9 40 2F EA BB 6B 3E D6 A6 F8 3D E4 0B 35 52 5E 69 4D 2E F9 E4 5F 59 E7 37 42 C9 6D 15 02 CA 66 71 E8 D2 D0 E9 F0 20 07 9A 98 19 D4 8D 9F 62 F0 F0 E7 4D 4C E2 85 79 0F 34 E1 A1 C7 BD C4 D8 12 72 EF 
+2022-12-25 22:56:16.9803| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 22:56:19.5763| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克1 wysłał komende: !play
+2022-12-25 22:56:22.5704| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克1 wysłał komende: !play dupa
+2022-12-25 22:56:37.1431| INFO|0|Bot.OnMessageReceived Użytkownik .₭āċքēṝ💞1 wysłał komende: !pomox
+2022-12-25 22:56:42.2935| INFO|0|Bot.OnMessageReceived Użytkownik .₭āċքēṝ💞1 wysłał komende: !pomoc

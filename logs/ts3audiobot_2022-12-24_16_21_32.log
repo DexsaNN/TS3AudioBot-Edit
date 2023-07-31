@@ -1,0 +1,12 @@
+2022-12-24 16:21:32.9290| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:21:33.2426| INFO|Core|Setup.LogHeader 
+2022-12-24 16:21:34.9947| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 16:21:34.9947| INFO|Core|Setup.LogHeader 
+2022-12-24 16:21:34.9947| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 16:21:34.9947| INFO|Core|Setup.LogHeader 
+2022-12-24 16:21:34.9947| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 16:21:35.2892| INFO|Core|Setup.LogHeader 
+2022-12-24 16:21:35.2892| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:21:36.0596| INFO|Core|WebServer.StartWebServerInternal Starting Webserver on port 58913
+2022-12-24 16:21:36.4661| INFO|Core|Bot.Run Bot "default" connecting to "WizardRPG.pl"
+2022-12-24 16:21:39.4367| INFO|Core|Ts3Client.ConnectClient Client connected.

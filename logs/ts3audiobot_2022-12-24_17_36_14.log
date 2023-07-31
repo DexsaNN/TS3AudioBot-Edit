@@ -1,0 +1,48 @@
+2022-12-24 17:36:14.7561| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:36:14.7986| INFO|Core|Setup.LogHeader 
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader 
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader 
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader 
+2022-12-24 17:36:14.8047| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:36:15.4034| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:36:15.5921| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-24 17:36:15.5986|ERROR|Core|WebServer.StartWebServerInternal Strona nie może zostać uruchomiona
+System.IO.IOException: Failed to bind to address http://[::]:58913: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.
+ ---> System.Net.Sockets.SocketException (10048): Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransport.BindAsync()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransport.BindAsync()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.AnyIPListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.EndpointsStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token, String shutdownMessage)
+   at Microsoft.AspNetCore.Hosting.WebHostExtensions.RunAsync(IWebHost host, CancellationToken token)
+   at TS3AudioBot.Web.WebServer.<>c__DisplayClass8_0.<<StartWebServerInternal>b__7>d.MoveNext() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Web\WebServer.cs:line 172
+2022-12-24 17:36:15.7315| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:36:19.0440| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:36:25.5045| WARN|0|LocalizationManager.LoadLanguageAssembly Failed to load language file 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'
+System.BadImageFormatException: Could not load file or assembly 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'. Format of the executable (.exe) or library (.dll) is invalid.
+File name: 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at TS3AudioBot.Localization.LocalizationManager.LoadLanguageAssembly(LanguageData languageDataInfo, CultureInfo culture, Boolean forceDownload) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 129
+
+
+2022-12-24 17:36:25.5096|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-24 17:36:25.5096| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !oasdoa

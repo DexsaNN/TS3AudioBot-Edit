@@ -1,0 +1,154 @@
+2022-12-27 11:44:46.5705| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-27 11:44:46.6140| INFO|Core|Setup.LogHeader 
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader 
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader 
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-27 11:44:46.6226| INFO|Core|Setup.LogHeader 
+2022-12-27 11:44:46.6301| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-27 11:44:47.9237| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-27 11:44:48.8147| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-27 11:44:49.8604| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-27 11:45:00.4068| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to wizardrpg.pl
+2022-12-27 11:45:00.5323| INFO|0|Bot.Run Bot "" połączył się z: "wizardrpg.pl"
+2022-12-27 11:45:00.9545| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to wizardrpg.pl
+2022-12-27 11:45:00.9679| INFO|0|Bot.Run Bot "" połączył się z: "wizardrpg.pl"
+2022-12-27 11:45:01.1478| INFO|0|Ts3Client.ConnectClient Bot został połączony.
+2022-12-27 11:45:01.2659| INFO|0|Ts3Client.ConnectClient Bot został połączony.
+2022-12-27 11:45:08.8805| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect ts3play.pl
+2022-12-27 11:45:08.8805| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect ts3play.pl
+2022-12-27 11:45:08.8806| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect ts3play.pl
+2022-12-27 11:45:15.5620| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:15.5620| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:15.5620| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:15.5696| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:15.5696| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:15.5696| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:15.9328| INFO|2|Ts3Client.ConnectClient Bot został połączony.
+2022-12-27 11:45:16.2024| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.2024| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.2024| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.2643| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.2643| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.2643| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.3977| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.3977| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.3977| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.3977| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.3977| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.3977| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.7366| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.7366| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.7414| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.7414| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.7560| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.7560| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.8211| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.8211| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.8211| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:16.8211| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.8338| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:16.8338| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.2216| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.2305| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.2836| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.2836| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.2926| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.2926| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.5357| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.5357| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.5378| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.5378| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.5378| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.5378| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.8929| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.8929| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.8929| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:17.9067| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.9142| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:17.9142| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.2020| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.2020| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.2020| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.2144| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.2295| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.2295| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.4111| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.4171| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.6005| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.6005| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.6892| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.6892| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.6967| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.6967| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.7588| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.7588| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.7588| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.8216| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:18.8216| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:18.9120| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.0108| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.0108| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.1663| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.1663| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.1663| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.1663| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.1774| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.1774| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.1774| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.1774| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.4051| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.4051| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.6682| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.6682| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.6682| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.6785| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.6965| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.6965| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:19.8464| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:19.8515| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.0575| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.0575| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.2529| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.2596| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.4114| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.4114| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.4381| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.4465| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.4708| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.4759| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.5655| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.5751| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.6023| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.6023| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.6824| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.6824| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:20.8739| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:20.8837| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.0556| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.0556| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.0895| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.0895| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.1063| INFO|1|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.1063| INFO|1|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.4188| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.4188| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.5957| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.6010| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.6330| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.6330| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:21.6330| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:21.6330| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.1171| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.1171| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.1547| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.1547| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.1633| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.1633| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.1633| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.1633| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.1633| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.1830| INFO|0|Bot.Run Bot "" połączył się z: "ts3play.pl"
+2022-12-27 11:45:22.5850| INFO|2|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !bot connect to ts3play.pl
+2022-12-27 11:45:22.5850| INFO|2|Bot.Run Bot "" połączył się z: "ts3play.pl"

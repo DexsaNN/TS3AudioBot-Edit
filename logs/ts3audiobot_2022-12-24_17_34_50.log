@@ -1,0 +1,40 @@
+2022-12-24 17:34:50.8555| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader 
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader 
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader 
+2022-12-24 17:34:50.9033| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:34:50.9111| INFO|Core|Setup.LogHeader 
+2022-12-24 17:34:50.9111| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:34:51.5497| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:34:51.8913| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:34:53.1787| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:35:10.0895| WARN|0|LocalizationManager.LoadLanguageAssembly Failed to load language file 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'
+System.BadImageFormatException: Could not load file or assembly 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'. Format of the executable (.exe) or library (.dll) is invalid.
+File name: 'C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\bin\Release\netcoreapp3.1\pl\TS3AudioBot.resources.dll'
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at TS3AudioBot.Localization.LocalizationManager.LoadLanguageAssembly(LanguageData languageDataInfo, CultureInfo culture, Boolean forceDownload) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 129
+
+
+2022-12-24 17:35:10.2520|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-24 17:35:10.2520| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stop
+2022-12-24 17:35:14.5245| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !asdasd
+2022-12-24 17:35:23.0677| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !oasdoa
+2022-12-24 17:35:24.3583| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !staijaosda
+2022-12-24 17:35:32.6858| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-24 17:35:32.6950| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-24 17:35:33.1361| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 17:35:33.1361| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 17:35:33.1466| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-24 17:35:33.9219| INFO||Core.ConsoleInterruptHandler Dostałem wiele sygnałów przerwań, próbuję wymusić wyjście.

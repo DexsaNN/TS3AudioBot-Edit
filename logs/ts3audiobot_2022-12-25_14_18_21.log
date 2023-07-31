@@ -1,0 +1,25 @@
+2022-12-25 14:18:21.2124| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader 
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader 
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader 
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 14:18:21.2559| INFO|Core|Setup.LogHeader 
+2022-12-25 14:18:21.2737| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:18:21.8435| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 14:18:22.1152| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 14:18:23.1580| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 14:18:30.9067| INFO|0|LocalizationManager.DownloadAvaliableLanguages Checking for requested language online
+2022-12-25 14:18:31.6759| WARN|0|LocalizationManager.DownloadAvaliableLanguages Failed to download language overview list
+TS3AudioBot.AudioBotException: Nieprawidłowe lub źle sformułowane części odpowiedzi. (json-request)
+   at TS3AudioBot.Helper.WebWrapper.AsJson[T](HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 116
+   at TS3AudioBot.Localization.LocalizationManager.DownloadAvaliableLanguages() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 167
+2022-12-25 14:18:31.7003|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-25 14:18:31.7003| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !version
+2022-12-25 14:20:36.2741| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-25 14:20:36.2741| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-25 14:20:36.2741| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-25 14:20:36.4175| INFO||WebServer.Dispose Strona jest w trakcie wyłączania
+2022-12-25 14:20:36.4175| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-25 14:20:36.4175| INFO||Core.StopAsync Do zobaczenia!

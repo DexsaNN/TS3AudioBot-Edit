@@ -1,0 +1,17 @@
+2022-12-25 14:02:42.6456| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader 
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader 
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader 
+2022-12-25 14:02:42.6869| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 14:02:43.0797| INFO|Core|Setup.LogHeader 
+2022-12-25 14:02:43.0835| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:02:44.7867| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 14:02:45.0243| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (kolejna).
+2022-12-25 14:02:45.0243| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (poprzednia).
+2022-12-25 14:02:45.0243| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (dodaj).
+2022-12-25 14:02:45.0243| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 14:02:56.2349| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-25 14:02:56.2349| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-25 14:02:57.4702| INFO||Core.ConsoleInterruptHandler Dostałem wiele sygnałów przerwań, próbuję wymusić wyjście.

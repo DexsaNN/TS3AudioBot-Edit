@@ -1,0 +1,25 @@
+2022-12-25 16:03:52.4371| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:03:52.4883| INFO|Core|Setup.LogHeader 
+2022-12-25 16:03:52.5022| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 16:03:52.5080| INFO|Core|Setup.LogHeader 
+2022-12-25 16:03:52.5080| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 16:03:52.5282| INFO|Core|Setup.LogHeader 
+2022-12-25 16:03:52.5427| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 16:03:52.5590| INFO|Core|Setup.LogHeader 
+2022-12-25 16:03:52.5590| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:03:53.3871| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 16:03:53.8511| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 16:03:57.7855| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 16:04:06.0186| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !yt0 
+2022-12-25 16:04:06.0979| WARN|0|RightsManager.ReadFile Right "cmd.random" is not registered.
+2022-12-25 16:04:06.0998| WARN|0|RightsManager.ReadFile Right "cmd.rng" is not registered.
+2022-12-25 16:04:06.0998| WARN|0|RightsManager.ReadFile Right "cmd.dodaj" is not registered.
+2022-12-25 16:04:06.0998| WARN|0|RightsManager.ReadFile Right "cmd.nastepna" is not registered.
+2022-12-25 16:04:06.0998| WARN|0|RightsManager.ReadFile Right "cmd.history.dodaj" is not registered.
+2022-12-25 16:04:10.2972| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !yt0 kabe
+2022-12-25 16:05:28.3367| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-25 16:05:28.3367| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-25 16:05:28.3367| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-25 16:05:28.5372| INFO||WebServer.Dispose Strona jest w trakcie wyłączania
+2022-12-25 16:05:28.5372| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-25 16:05:28.5372| INFO||Core.StopAsync Do zobaczenia!

@@ -1,0 +1,27 @@
+2022-12-25 14:13:59.7142| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader 
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader 
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader 
+2022-12-25 14:13:59.7602| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 14:13:59.7710| INFO|Core|Setup.LogHeader 
+2022-12-25 14:13:59.7710| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:14:00.3605| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 14:14:00.8213| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 14:14:08.6598| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 14:14:15.1025| INFO|0|LocalizationManager.DownloadAvaliableLanguages Checking for requested language online
+2022-12-25 14:14:15.7568| WARN|0|LocalizationManager.DownloadAvaliableLanguages Failed to download language overview list
+TS3AudioBot.AudioBotException: Nieprawidłowe lub źle sformułowane części odpowiedzi. (json-request)
+   at TS3AudioBot.Helper.WebWrapper.AsJson[T](HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 116
+   at TS3AudioBot.Localization.LocalizationManager.DownloadAvaliableLanguages() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 167
+2022-12-25 14:14:15.7818|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-25 14:14:15.7818| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !stacje
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.version" is not registered.
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.song" is not registered.
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.pause" is not registered.
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.add" is not registered.
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.previous" is not registered.
+2022-12-25 14:14:15.8681| WARN|0|RightsManager.ReadFile Right "cmd.next" is not registered.
+2022-12-25 14:14:25.8248| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !pomoc
+2022-12-25 14:14:37.7608| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !version

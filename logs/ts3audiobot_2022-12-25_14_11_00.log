@@ -1,0 +1,14 @@
+2022-12-25 14:11:00.2491| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:11:00.2972| INFO|Core|Setup.LogHeader 
+2022-12-25 14:11:00.2972| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 14:11:00.2972| INFO|Core|Setup.LogHeader 
+2022-12-25 14:11:00.2972| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 14:11:00.3026| INFO|Core|Setup.LogHeader 
+2022-12-25 14:11:00.3026| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 14:11:00.3026| INFO|Core|Setup.LogHeader 
+2022-12-25 14:11:00.3026| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 14:11:00.9045| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 14:11:01.3958| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (kolejna).
+2022-12-25 14:11:01.3958| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (poprzednia).
+2022-12-25 14:11:01.3958| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (dodaj).
+2022-12-25 14:11:01.4200| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"

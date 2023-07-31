@@ -1,0 +1,27 @@
+2022-12-24 16:57:05.0370| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:57:05.0799| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader 
+2022-12-24 16:57:05.0843| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 16:57:05.9067| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 16:57:06.2588| WARN|Core|ConfRoot.GetBotConfig Failed to load bot config "default"
+Nett.Parser.ParseException: Line 7, column 8: Key value expression's '=' is missing.
+   at Nett.Parser.Nodes.Opt`1.SyntaxNodeOrDefault()
+   at Nett.Parser.Nodes.Req`1.SyntaxNode()
+   at Nett.Parser.Nodes.Node.<>c.<LinearizeExpressions>b__8_0(NextExpressionNode c)
+   at Nett.Parser.Nodes.Node.EnumerableFromBranch[R,T](T root, Func`2 selectItem, Func`2 selectNext)+MoveNext()
+   at Nett.Parser.Builders.TableBuilder.Build(StartNode node, TomlSettings settings)
+   at Nett.StreamTomlSerializer.Deserialize(Stream s, TomlSettings settings)
+   at Nett.Toml.ReadFile(String filePath, TomlSettings settings)
+   at Nett.Toml.ReadFile(String filePath)
+   at TS3AudioBot.Config.ConfigEnumerable.Load[T](String path) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Config\ConfigEnumerable.cs:line 139
+2022-12-24 16:57:10.9265|ERROR|Core|BotManager.RunBots Could not save new bot. Ensure that the bot has access to the directory.
+2022-12-24 16:57:13.0859| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 16:57:13.0859| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 16:57:13.0859| INFO||WebServer.Dispose WebServer jest w trakcie wyłączania
+2022-12-24 16:57:13.0859| INFO|Core|WebServer.OnShutdown Strona została wyłączona
+2022-12-24 16:57:13.0859| INFO||Core.StopAsync Do zobaczenia!

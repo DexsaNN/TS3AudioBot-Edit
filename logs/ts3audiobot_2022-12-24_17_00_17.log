@@ -1,0 +1,19 @@
+2022-12-24 17:00:17.2118| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:00:17.2542| INFO|Core|Setup.LogHeader 
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader 
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader 
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader 
+2022-12-24 17:00:17.2562| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:00:17.9820| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:00:18.4235| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:00:19.8646| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:01:07.9304| INFO|0|LocalizationManager.DownloadAvaliableLanguages Checking for requested language online
+2022-12-24 17:01:08.2956| WARN|0|LocalizationManager.DownloadAvaliableLanguages Failed to download language overview list
+TS3AudioBot.AudioBotException: Invalid or malformed response parts. (json-request)
+   at TS3AudioBot.Helper.WebWrapper.AsJson[T](HttpRequestMessage request) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Helper\WebWrapper.cs:line 116
+   at TS3AudioBot.Localization.LocalizationManager.DownloadAvaliableLanguages() in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Localization\LocalizationManager.cs:line 167
+2022-12-24 17:01:08.3222|ERROR|0|Bot.OnMessageReceived Failed to load language file (Could not find language file)
+2022-12-24 17:01:08.3222| INFO|0|Bot.OnMessageReceived User 亚内克 requested: !stacje

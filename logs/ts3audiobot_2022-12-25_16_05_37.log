@@ -1,0 +1,23 @@
+2022-12-25 16:05:37.8045| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:05:37.9765| INFO|Core|Setup.LogHeader 
+2022-12-25 16:05:37.9765| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 16:05:37.9765| INFO|Core|Setup.LogHeader 
+2022-12-25 16:05:37.9765| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 16:05:37.9765| INFO|Core|Setup.LogHeader 
+2022-12-25 16:05:37.9897| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 16:05:37.9897| INFO|Core|Setup.LogHeader 
+2022-12-25 16:05:37.9897| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 16:05:38.5171| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 16:05:38.7561| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 16:05:39.8830| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 16:05:44.8006| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !stacje
+2022-12-25 16:05:44.8779| WARN|0|RightsManager.ReadFile Right "cmd.nastepna" is not registered.
+2022-12-25 16:05:48.7422| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://www.rmfon.pl/odbior/rmfclassic_aacp.pls[/URL]
+2022-12-25 16:05:51.2015|ERROR|0|FfmpegProducer.StartFfmpegProcessInternal Ffmpeg could not be found (Nie można odnaleźć określonego pliku.)
+System.ComponentModel.Win32Exception (2): Nie można odnaleźć określonego pliku.
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at TS3AudioBot.Audio.FfmpegProducer.StartFfmpegProcessInternal(FfmpegInstance instance, String arguments) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TS3AudioBot\Audio\FfmpegProducer.cs:line 282
+2022-12-25 16:05:54.0938| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]https://stream.open.fm/51[/URL]
+2022-12-25 16:06:03.3229| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://s3.radioparty.pl:8005[/URL]
+2022-12-25 16:06:08.6261| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play [URL]http://trance.radioparty.pl:8015[/URL]

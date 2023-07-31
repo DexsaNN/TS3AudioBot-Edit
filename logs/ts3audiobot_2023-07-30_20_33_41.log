@@ -1,0 +1,25 @@
+2023-07-30 20:33:41.7075| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2023-07-30 20:33:41.7846| INFO|Core|Setup.LogHeader 
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader 
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader 
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2023-07-30 20:33:41.7873| INFO|Core|Setup.LogHeader 
+2023-07-30 20:33:41.7873| INFO|Core|Setup.Main ────────────[ Bot Muzyczny ]────────────
+2023-07-30 20:33:42.5539|ERROR|Core|CommandManager.RegisterCollection Failed to load command bag: Command has an invalid invoke name: !playlist dodaj
+2023-07-30 20:33:42.5899|FATAL|Core|Core.UnhandledExceptionHandler Critical program failure!
+System.InvalidOperationException: Command has an invalid invoke name: !playlist dodaj
+   at TS3AudioBot.CommandSystem.CommandManager.RegisterCollection(ICommandBag bag) in C:\Users\konra\Music\botymuzyczne\TS3AudioBot\CommandSystem\CommandManager.cs:line 68
+   at TS3AudioBot.Core.Run(ParameterData setup) in C:\Users\konra\Music\botymuzyczne\TS3AudioBot\Core.cs:line 85
+   at TS3AudioBot.Setup.StartBot(ParameterData setup) in C:\Users\konra\Music\botymuzyczne\TS3AudioBot\Setup.cs:line 92
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_1(Object state)
+   at System.Threading.QueueUserWorkItemCallback.<>c.<.cctor>b__6_0(QueueUserWorkItemCallback quwi)
+   at System.Threading.ExecutionContext.RunForThreadPoolUnsafe[TState](ExecutionContext executionContext, Action`1 callback, TState& state)
+   at System.Threading.QueueUserWorkItemCallback.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+   at System.Threading.Thread.StartCallback()
+2023-07-30 20:33:42.8519| INFO|Core|Core.StopAsync Boty muzyczne wyłączone!
+2023-07-30 20:33:42.8519| INFO|Core|WebServer.Dispose Strona jest w trakcie wyłączania
+2023-07-30 20:33:42.8683| INFO|Core|Core.StopAsync Do zobaczenia!

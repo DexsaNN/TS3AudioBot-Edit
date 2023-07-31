@@ -1,0 +1,59 @@
+2022-12-26 01:59:05.7853| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader 
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader 
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader 
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader 
+2022-12-26 01:59:05.8240| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-26 01:59:06.3567| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-26 01:59:06.6214| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-26 01:59:08.3560| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-26 01:59:18.0241| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !stop
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.pm" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.unsubscribe" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.if" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.take" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.rights.can" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.from" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.id" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.last" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.play" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.till" is not registered.
+2022-12-26 01:59:18.0987| WARN|0|RightsManager.ReadFile Right "cmd.history.title" is not registered.
+2022-12-26 01:59:24.8682| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !pomoc
+2022-12-26 01:59:25.8473| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !stacje
+2022-12-26 01:59:26.7935| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !paly
+2022-12-26 01:59:28.0639| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !play
+2022-12-26 01:59:32.5165| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !loop
+2022-12-26 01:59:33.7643| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !przewin
+2022-12-26 01:59:34.7802| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !vol
+2022-12-26 01:59:36.1960| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !dodaj
+2022-12-26 01:59:39.2436| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-26 01:59:39.2856| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-26 01:59:39.6377| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !poprzednia
+2022-12-26 01:59:42.2533| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !kolejna
+2022-12-26 01:59:47.3765| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !zatrzymaj
+2022-12-26 01:59:48.7507| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !stop
+2022-12-26 02:00:05.0872| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !dodaj pl [URL]https://xnxx.com[/URL]
+2022-12-26 02:00:12.7589| WARN|0|TsBaseFunctions.Transfer SocketException trying to connect to filetransfer port
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): Próba połączenia nie powiodła się, ponieważ połączona strona nie odpowiedziała poprawnie po ustalonym okresie czasu lub utworzone połączenie nie powiodło się, ponieważ połączony host nie odpowiedział. 167.235.145.166:30033
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__27_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at TSLib.TsBaseFunctions.Transfer(FileTransferToken token) in C:\Users\Janek\OneDrive\Pulpit\WizardBOTS\TSLib\TsBaseFunctions.FileTransfer.cs:line 117
+2022-12-26 02:00:12.7589| WARN|0|Util.UnwrapToLog custom_error: the command failed to execute: Avatar upload failed: custom_error: the command failed to execute: Connection closed
+2022-12-26 02:00:36.4498| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !system info
+2022-12-26 02:00:44.2350| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !system info

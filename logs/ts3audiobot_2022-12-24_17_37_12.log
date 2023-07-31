@@ -1,0 +1,16 @@
+2022-12-24 17:37:12.7966| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader 
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader 
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader 
+2022-12-24 17:37:12.8399| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-24 17:37:12.9163| INFO|Core|Setup.LogHeader 
+2022-12-24 17:37:12.9163| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-24 17:37:13.5134| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-24 17:37:13.8005| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-24 17:37:14.7532| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-24 17:37:32.2481| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-24 17:37:32.2481| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-24 17:37:32.2561| INFO||Bot.Stop Bot (0) wyłączony.
+2022-12-24 17:37:32.6219| INFO||Core.ConsoleInterruptHandler Dostałem wiele sygnałów przerwań, próbuję wymusić wyjście.

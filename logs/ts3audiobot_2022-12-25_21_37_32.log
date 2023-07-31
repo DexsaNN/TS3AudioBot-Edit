@@ -1,0 +1,17 @@
+2022-12-25 21:37:32.4933| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader 
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader » Aplikacja stworzona przez Janek.
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader 
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader » Wersja: 1.0
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader 
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader Aplikacja została uruchomiona! Miłego Korzystania!
+2022-12-25 21:37:32.5859| INFO|Core|Setup.LogHeader 
+2022-12-25 21:37:32.5990| INFO|Core|Setup.LogHeader ────────────[ Bot Muzyczny ]────────────
+2022-12-25 21:37:33.6739| INFO|Core|WebServer.StartWebServerInternal Strona została uruchomiona na porcie: 58913
+2022-12-25 21:37:34.9791| WARN|Core|Bot..ctor Command error path: Command: Error: The command cannot be inserted into a complex node (yt).
+2022-12-25 21:37:34.9791| INFO|Core|Bot.Run Bot "default" połączył się z: "WizardRPG.pl"
+2022-12-25 21:37:38.0446| INFO|Core|Ts3Client.ConnectClient Bot został połączony.
+2022-12-25 21:38:00.8562| INFO|0|Bot.OnMessageReceived Użytkownik 亚内克 wysłał komende: !yt kabe
+2022-12-25 21:38:21.1949| INFO||Core.ConsoleInterruptHandler Odebrano sygnał przerwania, próba miękkiego wyjścia
+2022-12-25 21:38:21.1949| INFO||Core.StopAsync Boty muzyczne wyłączone!
+2022-12-25 21:38:21.2085| INFO||Bot.Stop Bot (0) wyłączony.
