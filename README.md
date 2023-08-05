@@ -1,1 +1,6 @@
-Poprawione TS3AudioBoty z dodanymi komendami oraz poprawionym/przerobionym stylem + dodane pod komendą !play <tytuł>/<link>
+TS3AudioBot - Splamy
+Dodano komendy !admin !stacje !pomoc !play <link> lub <tytuł>
+
+Poprawiono wygląd 
+
+Polski język
